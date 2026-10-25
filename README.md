@@ -1,4 +1,4 @@
-# Updated_POC_Text_To_SQL_V2
+# Updated _Text_To_SQL_V2
 
 
 .stMarkdown .card{display:none !important;}
